@@ -1,0 +1,20 @@
+{
+  "name": "rafaelpilartes/simple-routes",
+  "autoload": {
+    "files": [
+      "app/helpers/constants.php"
+    ],
+    "psr-4": {
+      "app\\": "app"
+    }
+  },
+  "authors": [
+    {
+      "name": "Rafael Pilartes",
+      "email": "rafaelpilartes.ra@gmail.com"
+    }
+  ],
+  "require": {
+    "league/plates": "^3.5"
+  }
+}
